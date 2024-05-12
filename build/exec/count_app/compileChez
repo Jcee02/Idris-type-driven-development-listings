@@ -1,1 +1,0 @@
-(parameterize ([optimize-level 3] [compile-file-message #f]) (compile-program "/Users/jc/Documents/Idris2/build/exec/count_app/count.ss"))
